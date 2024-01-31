@@ -1,0 +1,39 @@
+body {
+    background-color: #333;
+    color: white;
+}
+.gameMap {
+    width: 498px;
+    height: 498px;
+    border: 10px solid #666;
+}
+.gameMap div {
+    width: 48px;
+    height: 48px;
+    border: 1px solid #444;
+    float: left;
+}
+.gameMap .pac {
+    background-image: url(images/Cute-Ball-Games-icon.png);
+}
+.gameMap .coin {
+    background-image: url(images/coin-icon.png);
+}
+.gameMap .coin1 {
+    background-image: url(images/coin-icon.png);
+}
+.gameMap .coin2 {
+    background-image: url(images/coin-icon.png);
+}
+.gameMap .coin3 {
+    background-image: url(images/coin-icon.png);
+}
+.gameMap .bomb {
+    background-image: url(images/Bomb-icon.png);
+}
+.gameMap .bomb1 {
+    background-image: url(images/Bomb-icon.png);
+}
+.gameMap .bomb2 {
+    background-image: url(images/Bomb-icon.png);
+}
